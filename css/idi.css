@@ -1,0 +1,37 @@
+body{
+background: url(fon.jpg); 
+background-attachment: fixed;
+background-repeat: no-repeat;
+background-position: top;
+}
+.top_text {
+width: 140px;
+margin-top: 200px;
+margin-left: 620px;
+}
+.left_text {
+background-color: #2f4dad;
+width: 270px;
+height: 280px;
+margin-top: -30px;
+margin-left: 950px;
+}
+.right_text {
+margin-top: -200px;
+margin-left: 350px;
+}
+.kvad {
+margin-top: -300px;
+margin-left: 650px;
+}
+a {
+text-decoration: none;
+}
+.eyes {
+text-decoration: none;
+background-color: lawngreen;
+width: 60px;
+height: 20px;
+margin-top: -350px;
+margin-left: 785px;
+}
